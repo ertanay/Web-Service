@@ -1,0 +1,12 @@
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Release\wttprojesi.database.dll.config
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Release\wttprojesi.database.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Release\wttprojesi.database.pdb
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Release\EntityFramework.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Release\EntityFramework.xml
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\obj\Release\wttprojesi.database.csprojAssemblyReference.cache
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\obj\Release\wttprojesi.database.csproj.CoreCompileInputs.cache
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\obj\Release\wttprojesi.database.csproj.CopyComplete
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\obj\Release\wttprojesi.database.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\obj\Release\wttprojesi.database.pdb

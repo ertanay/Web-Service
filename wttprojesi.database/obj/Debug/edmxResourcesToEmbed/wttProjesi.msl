@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="wttModelStoreContainer" CdmEntityContainer="wttProjesi">
+    <EntitySetMapping Name="Personel">
+      <EntityTypeMapping TypeName="wttModel.Personel">
+        <MappingFragment StoreEntitySet="Personel">
+          <ScalarProperty Name="Siralama" ColumnName="Siralama" />
+          <ScalarProperty Name="Memur_No" ColumnName="Memur_No" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Meslek" ColumnName="Meslek" />
+          <ScalarProperty Name="Daire" ColumnName="Daire" />
+          <ScalarProperty Name="Bolum" ColumnName="Bolum" />
+          <ScalarProperty Name="Aylik" ColumnName="Aylik" />
+          <ScalarProperty Name="KontrolTarihi" ColumnName="KontrolTarihi" />
+          <ScalarProperty Name="ise_Baslama" ColumnName="ise_Baslama" />
+          <ScalarProperty Name="Dogum_Tarihi" ColumnName="Dogum_Tarihi" />
+          <ScalarProperty Name="kan_grubu" ColumnName="kan_grubu" />
+          <ScalarProperty Name="rh" ColumnName="rh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

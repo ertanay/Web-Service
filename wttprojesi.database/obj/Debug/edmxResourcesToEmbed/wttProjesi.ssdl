@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="wttModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'test.dbo.Personel' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Personel">
+    <Key>
+      <PropertyRef Name="Siralama" />
+      <PropertyRef Name="Memur_No" />
+      <PropertyRef Name="Soyad" />
+      <PropertyRef Name="Ad" />
+      <PropertyRef Name="Meslek" />
+      <PropertyRef Name="Daire" />
+      <PropertyRef Name="Bolum" />
+      <PropertyRef Name="Aylik" />
+      <PropertyRef Name="KontrolTarihi" />
+      <PropertyRef Name="ise_Baslama" />
+      <PropertyRef Name="Dogum_Tarihi" />
+    </Key>
+    <Property Name="Siralama" Type="tinyint" Nullable="false" />
+    <Property Name="Memur_No" Type="smallint" Nullable="false" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Meslek" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Daire" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Bolum" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Aylik" Type="int" Nullable="false" />
+    <Property Name="KontrolTarihi" Type="date" Nullable="false" />
+    <Property Name="ise_Baslama" Type="date" Nullable="false" />
+    <Property Name="Dogum_Tarihi" Type="date" Nullable="false" />
+    <Property Name="kan_grubu" Type="nvarchar" MaxLength="50" />
+    <Property Name="rh" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="wttModelStoreContainer">
+    <EntitySet Name="Personel" EntityType="Self.Personel" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Personel].[Siralama] AS [Siralama], 
+    [Personel].[Memur_No] AS [Memur_No], 
+    [Personel].[Soyad] AS [Soyad], 
+    [Personel].[Ad] AS [Ad], 
+    [Personel].[Meslek] AS [Meslek], 
+    [Personel].[Daire] AS [Daire], 
+    [Personel].[Bolum] AS [Bolum], 
+    [Personel].[Aylik] AS [Aylik], 
+    [Personel].[KontrolTarihi] AS [KontrolTarihi], 
+    [Personel].[ise_Baslama] AS [ise_Baslama], 
+    [Personel].[Dogum_Tarihi] AS [Dogum_Tarihi], 
+    [Personel].[kan_grubu] AS [kan_grubu], 
+    [Personel].[rh] AS [rh]
+    FROM [dbo].[Personel] AS [Personel]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

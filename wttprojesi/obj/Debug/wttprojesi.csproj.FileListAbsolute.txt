@@ -1,0 +1,126 @@
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.dll.config
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.pdb
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csc.exe
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csc.exe.config
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csc.rsp
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csi.exe
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csi.exe.config
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csi.rsp
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.AppContext.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Console.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\vbc.exe
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\vbc.exe.config
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\vbc.rsp
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.database.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.database.pdb
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.database.dll.config
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\obj\Debug\wttprojesi.csprojAssemblyReference.cache
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\obj\Debug\wttprojesi.csproj.CoreCompileInputs.cache
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\obj\Debug\wttprojesi.csproj.CopyComplete
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\obj\Debug\wttprojesi.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\obj\Debug\wttprojesi.pdb
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\EntityFramework.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\EntityFramework.xml
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi\bin\EntityFramework.SqlServer.xml
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.dll.config
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.pdb
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csc.exe
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csc.exe.config
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csc.rsp
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csi.exe
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csi.exe.config
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\csi.rsp
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.AppContext.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Console.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\vbc.exe
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\vbc.exe.config
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\vbc.rsp
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\EntityFramework.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\EntityFramework.SqlServer.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.database.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.database.pdb
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\wttprojesi.database.dll.config
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\EntityFramework.xml
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\EntityFramework.SqlServer.xml
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\obj\Debug\wttprojesi.csprojAssemblyReference.cache
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\obj\Debug\wttprojesi.csproj.CoreCompileInputs.cache
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\obj\Debug\wttprojesi.csproj.CopyComplete
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\obj\Debug\wttprojesi.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi\obj\Debug\wttprojesi.pdb

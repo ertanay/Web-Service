@@ -1,0 +1,23 @@
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\wttprojesi.database.dll.config
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\wttprojesi.database.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\wttprojesi.database.pdb
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\EntityFramework.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\EntityFramework.xml
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\obj\Debug\wttprojesi.database.csproj.CoreCompileInputs.cache
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\obj\Debug\wttprojesi.database.csproj.CopyComplete
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\obj\Debug\wttprojesi.database.dll
+C:\Users\Ertan Ay\source\repos\wttprojesi\wttprojesi.database\obj\Debug\wttprojesi.database.pdb
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\wttprojesi.database.dll.config
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\wttprojesi.database.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\wttprojesi.database.pdb
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\EntityFramework.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\EntityFramework.xml
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\obj\Debug\wttprojesi.database.csprojAssemblyReference.cache
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\obj\Debug\wttprojesi.database.csproj.CoreCompileInputs.cache
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\obj\Debug\wttprojesi.database.csproj.CopyComplete
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\obj\Debug\wttprojesi.database.dll
+C:\Users\ertanay\source\repos\wttprojesi\wttprojesi.database\obj\Debug\wttprojesi.database.pdb

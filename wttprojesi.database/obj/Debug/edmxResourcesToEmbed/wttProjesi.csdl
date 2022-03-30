@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="wttModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Personel">
+    <Key>
+      <PropertyRef Name="Siralama" />
+      <PropertyRef Name="Memur_No" />
+      <PropertyRef Name="Soyad" />
+      <PropertyRef Name="Ad" />
+      <PropertyRef Name="Meslek" />
+      <PropertyRef Name="Daire" />
+      <PropertyRef Name="Bolum" />
+      <PropertyRef Name="Aylik" />
+      <PropertyRef Name="KontrolTarihi" />
+      <PropertyRef Name="ise_Baslama" />
+      <PropertyRef Name="Dogum_Tarihi" />
+    </Key>
+    <Property Name="Siralama" Type="Byte" Nullable="false" />
+    <Property Name="Memur_No" Type="Int16" Nullable="false" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Meslek" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Daire" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Bolum" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Aylik" Type="Int32" Nullable="false" />
+    <Property Name="KontrolTarihi" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ise_Baslama" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Dogum_Tarihi" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="kan_grubu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="rh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="wttProjesi" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Personel" EntityType="Self.Personel" />
+  </EntityContainer>
+</Schema>
